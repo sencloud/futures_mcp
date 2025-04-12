@@ -191,13 +191,9 @@ futures_mcp/
 └── README.md              # 项目文档
 ```
 
-## 贡献指南
-
-1. Fork 项目
-2. 创建特性分支
-3. 提交更改
-4. 推送到分支
-5. 创建 Pull Request
+## 其他
+如果你喜欢我的项目，可以给我买杯咖啡：
+<img src="https://github.com/user-attachments/assets/e75ef971-ff56-41e5-88b9-317595d22f81" alt="image" width="300" height="300">
 
 ## 许可证
 
