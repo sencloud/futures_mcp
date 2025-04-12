@@ -116,7 +116,8 @@ python mcp_server.py
 
 3. 重启 Claude Desktop
 
-4. 现在你可以在 Claude Desktop 中使用期货工具（点击工具图标）
+4. 现在你可以在 Claude Desktop 中使用期货工具
+![image](https://github.com/user-attachments/assets/1fa2978f-3412-46f9-b6ba-1022d282d838)
 
 5. 可以尝试向 Claude 提问：
    - "获取 豆粕 的当前价格"
@@ -132,6 +133,7 @@ streamlit run app.py
 ```
 
 访问浏览器 http://localhost:8501
+![image](https://github.com/user-attachments/assets/9b42117f-e049-4305-955b-9e693324f322)
 
 ### Streamlit 界面使用流程
 
