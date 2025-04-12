@@ -1,0 +1,8 @@
+streamlit
+akshare
+pandas
+numpy
+httpx
+plotly
+python-dotenv
+mcp
